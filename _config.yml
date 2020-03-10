@@ -1,10 +1,10 @@
 # Site settings
-title: James Johnson
+title: Mohsen Ahmadi
 description: >- # this means to ignore newlines until "baseurl:"
-  Games Designer and Programmer. Hobbyist artist and musician. Lover of all things interactive.
+  Agile Product/Project Manager and Scrum Master
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: James-Aaron-Johnson/James-Aaron-Johnson.github.io
+repository: ahmadipm/ahmadipm.github.io
 
 remote_theme: YoussefRaafatNasry/portfolYOU@v2.2.2
 
@@ -16,13 +16,13 @@ markdown: kramdown
 
 # Author Info
 author:
-  name     : James Johnson
-  image    : https://cdnb.artstation.com/p/users/avatars/000/279/527/large/fe5e72913fb1cf6e26614017cffe4bd0.jpg?1557319416
-  email    : james_aaron_johnson@outlook.com
-  github   : Chi-Time
-  twitter  : ZutA30Endelson
-  linkedin : james-aaron-johnson
-  facebook : username
+  name     : Mohsen Ahmadi
+  image    : ""
+  email    : mohsen@ahmadi.pm
+  github   : ahmadipm
+  twitter  : ahmadi_pm
+  linkedin : mohsenahmadi
+  facebook : mohsenahmadii
 
 
 # Collections
