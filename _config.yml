@@ -17,7 +17,7 @@ markdown: kramdown
 # Author Info
 author:
   name     : Mohsen Ahmadi
-  image    : ""
+  image    : https://ahmadi.pm/assets/profile.jpg
   email    : mohsen@ahmadi.pm
   github   : ahmadipm
   twitter  : ahmadi_pm
