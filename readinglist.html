@@ -1,0 +1,8 @@
+Last updated {{ site.data.reading.lastupdate }}
+{% for entry in site.data.reading.list %}
+{{ entry.year }}
+{{ entry.books | size }} books
+	•	{% for book in entry.books %}
+	•	{{ book.title }} by {{ book.author }}{% if book.star %}â˜…{% endif %} 
+	•	{% endfor %} 
+{% endfor %} 
